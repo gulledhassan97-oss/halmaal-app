@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hal-maal</string>
+    <string name="brand_full_name">Hal-maal Digital Publishing</string>
+    <string name="explore_publications">Explore Publications</string>
+    <string name="my_library">My Library</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="buy_book">Buy Book</string>
+    <string name="read_book">Read Book</string>
+    <string name="preview_cover">Preview Page 1</string>
+    <string name="close_reader">Close Reader</string>
+    <string name="checkout_title">Checkout with Sifalopay</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="upload_rasterize_pdf">Upload &amp; Rasterize PDF</string>
+    <string name="error_invalid_email">Please enter a valid email address.</string>
+    <string name="error_invalid_credentials">Invalid email or password.</string>
+    <string name="error_account_not_activated">Account not activated. Please verify your email.</string>
+</resources>

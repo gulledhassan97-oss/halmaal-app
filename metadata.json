@@ -1,0 +1,6 @@
+{
+  "name": "Hal-maal",
+  "description": "Digital bookstore and secure flipbook reader with Sifalopay ZAAD and eDahab mobile money checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
